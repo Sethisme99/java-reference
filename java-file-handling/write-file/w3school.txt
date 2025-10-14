@@ -1,0 +1,1 @@
+Write file with close file auto!Appending the text: true = append mode!
